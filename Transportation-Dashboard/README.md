@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes roadway maintenance performance across Interstate 287 using SQL, Python, Tableau, and Power BI.
+This project analyzes roadway maintenance performance across Interstate 287 using internal indexing software and PowerBI.
 
 The objective was to identify roadway segments where maintenance activities generated the greatest improvement in traffic conditions and to develop a repeatable framework for prioritizing future maintenance investments.
 
