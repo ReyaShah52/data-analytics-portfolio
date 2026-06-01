@@ -23,7 +23,7 @@ Transportation stakeholders need a data-driven method for:
 
 ## Dashboard Preview
 
-![Dashboard Overview](Roadway_Maintenance_&_Traffic_Performance_Dashboard_Image_1.png)
+![Dashboard Overview](dashboard_1.PNG)
 
 ---
 
@@ -70,7 +70,7 @@ Transportation stakeholders need a data-driven method for:
 
 ## Results Dashboard
 
-![Results Dashboard](Roadway_Maintenance_&_Traffic_Performance_Dashboard_Image_2.png)
+![Results Dashboard](dashboard_2.PNG)
 
 ---
 
