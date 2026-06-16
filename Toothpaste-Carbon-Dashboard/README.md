@@ -22,6 +22,8 @@ Key questions this dashboard answers:
 
 ![Toothpaste Carbon Footprint Dashboard](dashboard1.png)
 
+<p align="center"><em><sub>Toothpaste Value-Efficiency Landscape — Power BI. Scatter plot: avg price vs avg carbon footprint, bubble size driven by Efficiency Score. Gauges: penalty score per product, 0 = most efficient, 100 = least efficient.</sub></em></p>
+
 ## Tools Used
 
 - Power BI / Power Query M
