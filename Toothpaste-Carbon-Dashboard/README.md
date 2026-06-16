@@ -20,7 +20,7 @@ Key questions this dashboard answers:
 
 ## Dashboard Preview
 
-![Toothpaste Carbon Footprint Dashboard](dashboard_1.png)
+![Toothpaste Carbon Footprint Dashboard](dashboard1.png)
 
 ## Tools Used
 
